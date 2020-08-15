@@ -29,6 +29,6 @@ DESC
   s.platform   = :ios
   s.static_framework= true
   s.ios.deployment_target = '10.0'
-  s.vendored_frameworks = 'MessagingSDK.framework'
+  s.vendored_frameworks = 'MessgingSDK-1.0.0/MessagingSDK.framework'
 
 end
