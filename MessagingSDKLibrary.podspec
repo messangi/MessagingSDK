@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MessagingSDKLibrary'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MessagingSDK allows the integration of mobile applications for receiving push/deeplinks/geofences/geopush'
 
 
