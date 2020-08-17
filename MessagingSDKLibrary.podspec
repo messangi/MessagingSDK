@@ -25,7 +25,7 @@ DESC
   s.homepage   = 'https://messangi.com'
   s.license    = { :type => 'MIT', :file => 'LICENSE' }
   s.author     = { 'Messangi' => 'Messangi' }
-  s.source     = { :http => 'https://github.com/messangi/MessagingSDKLibrary/releases/download/v1.0.0/MessagingSDKLibrary-1.0.0.zip' }
+  s.source     = { :http => 'https://github.com/messangi/MessagingSDKLibrary/releases/download/v1.0.1/MessagingSDKLibrary-1.0.1.zip' }
   s.platform   = :ios
   s.static_framework= true
   s.ios.deployment_target = '10.0'
